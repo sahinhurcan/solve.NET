@@ -15,7 +15,7 @@ Bunun için bir .NET Standart kütüphanesi oluşturulacak ve tasarım desenleri
 
 ## Proje Dökümanı!
 
-Projeye ait dökümanlar bu repository içerisinde **/dokumanlar** dizininde saklanmakta olup güncellendikçe aynı dizinde de güncellenmeye devam edecektir.
+Projeye ait dökümanlar bu repository içerisinde **/Docs** dizininde saklanmakta olup güncellendikçe aynı dizinde de güncellenmeye devam edecektir.
 
 ## Toplantı Videoları
 
