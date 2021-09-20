@@ -19,7 +19,8 @@ Projeye ait dökümanlar bu repository içerisinde **/Docs** dizininde saklanmak
 
 ## Toplantı Videoları
 
-Tek kişilik bir ekip olduğum için henüz bir toplantı ihtiyacı oluşmamıştır ancak sınıf kütüphanesini yazmaya başladığımda neler yaptığımı anlatabilmek adına videoları çekip hem burada hem de dökümantasyon içerisinde bunların bağlantıları bulunacaktır.
+Proje Tanıtımı
+https://youtu.be/YsKHfI9L6SQ
 
 ## Hedefler
 
